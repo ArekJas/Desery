@@ -1,0 +1,47 @@
+a {
+   text-decoration: none;
+}
+
+.nagl {
+    text-align: center;
+	 
+}
+.tyt
+{
+	text-align: center;
+}
+div{
+	text-align: center;
+}
+#link1
+{
+width:49%;
+float:right;
+height:50px;	
+border: 1px solid;
+margin-bottom:10px;
+font-size:18px;
+background-color:white;
+ 
+}
+#link2
+{
+width:49%;
+height:50px;
+border: 1px solid;	
+margin-bottom:10px;	
+font-size:18px;
+background-color:white;
+}
+body{
+	background-image:url(bg1.jpg);
+}
+p
+{
+	background-color:white;
+	font-size:18px;
+}
+img
+{
+	border: 1px solid;
+}
